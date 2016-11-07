@@ -1,5 +1,6 @@
 h1{
     color: red;
+    font-family: gloria hallelujah;
 
 }
 img{
@@ -8,15 +9,18 @@ img{
 }
 .logo{
   position: absolute;;
-  top: 380px;
-  left: 530px;
+  top: 20%;
+  left: 40%;
 
 }
 p{
   position: absolute;
-  top: 200px;
-  left: 200;
-  width: 100%;
+  top: 70;
+  left: 35%;
   z-index: 1;
-
+  font-family: gloria hallelujah;
+}
+.drink{
+  display:inline-block;
+  top:20%;
 }
