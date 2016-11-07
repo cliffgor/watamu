@@ -3,9 +3,10 @@ h1{
     font-family: gloria hallelujah;
 
 }
-img{
+.img{
   position: relative;
   text-align: center;
+  padding: -100;
 }
 .logo{
   position: absolute;;
@@ -15,12 +16,18 @@ img{
 }
 p{
   position: absolute;
-  top: 70;
+  top: 50%;
   left: 35%;
   z-index: 1;
-  font-family: gloria hallelujah;
+  font-family: dosis;
+  font-weight: bold;
+  font-size: 25px;
 }
-.drink{
+
+.drinks{
   display:inline-block;
-  top:20%;
+  position: relative;
+  right: 40%;
+  padding: -16%;
+
 }
