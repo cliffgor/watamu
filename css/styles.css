@@ -6,7 +6,7 @@ h1{
 .img{
   position: relative;
   text-align: center;
-  padding: -100;
+  padding: -100
 }
 .logo{
   position: absolute;;
@@ -38,10 +38,8 @@ p{
   display: inline-block;
   z-index: -1;
   top: 30%;
-  
 
 
-}
 
 
 
