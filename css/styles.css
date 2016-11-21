@@ -29,5 +29,20 @@ p{
   position: relative;
   right: 40%;
   padding: -16%;
+  float: inherit;
+
+}
+
+.happy-hour{
+  background-color: white;
+  display: inline-block;
+  z-index: -1;
+  top: 30%;
+  
+
+
+}
+
+
 
 }
