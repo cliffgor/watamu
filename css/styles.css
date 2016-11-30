@@ -1,9 +1,5 @@
-h1{
-    color: red;
-    font-family: gloria hallelujah;
+.img {
 
-}
-.img{
   position: relative;
   text-align: center;
   padding: -100
@@ -16,7 +12,7 @@ h1{
 }
 p{
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 35%;
   z-index: 1;
   font-family: dosis;
@@ -24,20 +20,19 @@ p{
   font-size: 25px;
 }
 
-.drinks{
-  display:inline-block;
-  position: relative;
-  right: 40%;
-  padding: -16%;
-  float: inherit;
-
+.drinks {
+  border: -3px;
+  border-radius: 2px;
+  padding: 2px;
+  left: 60px;
 }
 
-.happy-hour{
-  background-color: white;
-  display: inline-block;
-  z-index: -1;
-  top: 30%;
+.image-responsive {
+  width: 100%;
+  padding: 2px;
+  border: 4px;
+}
 
-
+.partytime {
+  color: red;
 }
